@@ -1,0 +1,13 @@
+UserName = "Aaliyah"
+firstname = "Joy"
+nick_name = "Lollipop"
+SurName = "Adegoke"
+TheBestProgrammingLanguage = "Python"
+MoreAdvancedProgrammingLanguage = "JavaScript"
+Best_Food = "Yam and eggs"
+BestBookOfTheBible= "John"
+Best_dress= "Jeans and shirt"
+SchoolOfLearning = "Linar"
+
+fruits, foods, colours = "Mango", "Yam", "Blue"
+a=b=c=d=e= "20"
