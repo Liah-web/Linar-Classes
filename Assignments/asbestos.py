@@ -9,6 +9,7 @@ AreaOfTheRoomInSquareFeet = Length*Width
 Onefoot=12
 OneSquarefoot= Onefoot**2 #inches
 
+#Declaring other important variables
 AreaOfTheRoomInSquareInches= AreaOfTheRoomInSquareFeet*OneSquarefoot
 AreaOfOneAbestosSheet=8 * 8 #8 inches by 8 inches
 NumberOfAbestosNeeded=AreaOfTheRoomInSquareInches/AreaOfOneAbestosSheet  #Numbers of Abestos needed
